@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork", "Practice5\Classwork.csproj", "{C9B06676-272A-46DD-A69F-A35E28C565B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodichka", "Metodichka\Metodichka.csproj", "{F0C811E9-74BA-4B02-9B43-71125E211BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{642608EC-514F-4BC0-9828-57BF109A8F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B06676-272A-46DD-A69F-A35E28C565B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B06676-272A-46DD-A69F-A35E28C565B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B06676-272A-46DD-A69F-A35E28C565B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B06676-272A-46DD-A69F-A35E28C565B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C811E9-74BA-4B02-9B43-71125E211BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C811E9-74BA-4B02-9B43-71125E211BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C811E9-74BA-4B02-9B43-71125E211BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C811E9-74BA-4B02-9B43-71125E211BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642608EC-514F-4BC0-9828-57BF109A8F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642608EC-514F-4BC0-9828-57BF109A8F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642608EC-514F-4BC0-9828-57BF109A8F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642608EC-514F-4BC0-9828-57BF109A8F04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC308950-26A2-4D15-A6BB-31F1CEF8A29F}
+	EndGlobalSection
+EndGlobal
